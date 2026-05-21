@@ -40,7 +40,7 @@ If you are a hiring manager looking for adaptable builders, a fellow engineer tr
 I believe great engineering thrives on shared knowledge. Let's talk about systems architecture, automation trends or shared documentation strategies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thandiaof/)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://notion.so](https://www.notion.so/DevOps-Contents-3678420d6864800db61fca5ba3e527f8?source=copy_link)) 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/DevOps-Contents-3678420d6864800db61fca5ba3e527f8?source=copy_link) 
 
 - 📨 **Email Contact:** Send a message to thandiwecontato@outlook.com
 
