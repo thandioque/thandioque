@@ -48,17 +48,21 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 ### 🛠️ What I am Building & Exploring
 
 ```text
-🔄 Pipeline Status: Active Learning & System Optimization
-├── 📁 Shell Scripting ── Native expansions & clean automation logic
-├── 📁 Containers      ── Architecture, multi-stage builds, and patterns
-└── 📁 AI + IT         ── Practical applications of AI in engineering workflows
+🔄 Pipeline Status: Active Learning & Continuous Evolution
+├── 📁 Linux & Systems Logic ── Mastering internals, complex OS layers & Bash scripts
+├── 📁 Network Architecture ── Deep-diving into protocols, routing & core infrastructure layers
+└── 📁 AI Pipeline Research  ── Investigating AI concepts and integration 
 ```
 
+
+
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thandioque&theme=default" width="100%" alt=" Language Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thandioque&theme=default&exclude=html" width="100%" alt=" Language Details" />
 </p>
 
-
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thandioque&theme=github_dark&exclude=html" width="100%" alt=" Language Details" />
+</p>
 ---
 
 ### 📊 Commit Activity
