@@ -42,7 +42,7 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thandiaof/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://notion.so](https://www.notion.so/DevOps-Contents-3678420d6864800db61fca5ba3e527f8?source=copy_link)) 
 
-- 📨 **Email Contact:** [Send a message](thandiwecontato@outlook.com)
+- 📨 **Email Contact:** Send a message to thandiwecontato@outlook.com
 
 ---
 
@@ -56,16 +56,12 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 ```
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thandioque&theme=github_dark&exclude=html" width="100%" alt=" Language Details" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thandioque&theme=github_dark&exclude=html" width="50%" alt=" Language Details" />
 </p>
 
 ---
 
 ### 📊 Commit Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thandioque&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Thandiwe's Activity Graph" />
-</p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thandioque&theme=github_dark" width="100%" alt="Profile Details" />
