@@ -10,42 +10,14 @@ I do not claim to know everything. Instead, I offer an authentic, disciplined mi
 
 ---
 
-### 📊 System Telemetry
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.verve.ink/api/cards/profile-details?username=thandioque&theme=github_dark" width="100%" alt="Profile Details" />
-</p>
-
----
-
-### 🎨 My Ecosystem Beyond the Repositories
-
-When I am not debugging loops or reading system logs, I am usually looking at clean design, tracking system metrics or refining my personal productivity architecture.
-
-- **My System Notes:** Hosted on Notion, mapping out everything from basic network protocols to cloud design paradigms.
-- **My Professional Journey:** Fully detailed on LinkedIn, focusing on culture, human systems and engineering collaboration.
-
----
-
----
-
 ### 🗺️ The Roadmap
 
-Here is a transparent look at what I am currently diving into to expand my horizons:
+A transparent look at my continuous iteration loop—focused on fundamentals, technical evolution and structural optimization:
 
-- [x] Standardize scripting logic and non-aversive Bash paradigms.
-- [/] Experiment with automated infrastructure provisioning and self-healing systems.
-- [ ] Investigate operational design patterns for deploying scalable machine learning models.
-- [ ] Build a video/written platform to share documentation openly with the community.
-
----
-
-### 🚀 Current Focus & Exploration
-
-- 🔄 **Iterating On:** Enhancing native, efficient automation workflows and systems optimization.
-- 🧪 **Experimenting With:** Integrating AI capabilities into continuous integration and development pipelines.
-- 📚 **Deep Diving:** Advanced orchestration patterns, architectural resilience, and data monitoring.
-- 📝 **Documenting:** Centralizing everything I uncover into a structured personal knowledge base.
+- [/] **Refining Systems Logic:** Deepening my mastery of advanced Linux complexities internals and standardizing highly efficient, non-aversive native Bash paradigms.
+- [/] **Core Fundamentals:** Strengthening my architectural foundation by deep-diving into networking layers, protocols and routing essential to enterprise DevOps culture.
+- [/] **Exploring AI Integrations:** Progressively expanding my horizons by investigating how to organically implement AI capabilities into continuous integration and development pipelines.
+- [/] **Knowledge Architecture:** Building an open, structured personal documentation platform to share technical discoveries, insights and logs with the community.
 
 ---
 
@@ -82,6 +54,11 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 └── 📁 AI + IT         ── Practical applications of AI in engineering workflows
 ```
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thandioque&theme=default" width="100%" alt=" Language Details" />
+</p>
+
+
 ---
 
 ### 📊 Commit Activity
@@ -89,3 +66,10 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thandioque&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Thandiwe's Activity Graph" />
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theme&theme=default" width="100%" alt="Profile Details" />
+</p>
+
+
+
