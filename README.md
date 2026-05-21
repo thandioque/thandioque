@@ -41,7 +41,8 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thandiaof/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://notion.so](https://www.notion.so/DevOps-Contents-3678420d6864800db61fca5ba3e527f8?source=copy_link)) 
-[![Email Contact](https://shields.io)](thandiwecontato@outlook.com)
+
+- 📨 **Email Contact:** [Send a message](thandiwecontato@outlook.com)
 
 ---
 
@@ -54,15 +55,10 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 └── 📁 AI Pipeline Research  ── Investigating AI concepts and integration 
 ```
 
-
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thandioque&theme=default&exclude=html" width="100%" alt=" Language Details" />
-</p>
-
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thandioque&theme=github_dark&exclude=html" width="100%" alt=" Language Details" />
 </p>
+
 ---
 
 ### 📊 Commit Activity
@@ -72,7 +68,7 @@ I believe great engineering thrives on shared knowledge. Let's talk about system
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theme&theme=default" width="100%" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thandioque&theme=github_dark" width="100%" alt="Profile Details" />
 </p>
 
 
