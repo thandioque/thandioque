@@ -19,11 +19,11 @@ This profile serves as an open-source log of my technical evolution, architectur
 
 Rather than just consuming theory, I build to understand. Here is where I track my progress:
 
-*   **[shell-script-studies](https://github.com/Thandiaof/shell-script-studies):** A dedicated sandbox for clean, native expansions and arithmetic evaluation.
-*   **Infrastructure Layouts:** Side projects mapping out declarative configurations and lifecycle automations.
-*   **Technical Logs:** Deep dives into container lifecycles, network layers, and observability.
+*   **[shell-script-studies](https://github.com/thandioque/shell-script-studies):** Repository dedicated to learning and practicing Shell Scripting.
+*   **[python-studies](https://github.com/thandioque/python-studies/tree/develop):** Repository dedicated to learning and practicing Python programming.
+*   **[Simple-Chat](https://github.com/thandioque/Simple-Chat)::** A dedicated area box for developing knowledge.
 
-> 💡 *“The best infrastructure is built on continuous improvement, rigorous documentation, and a growth mindset.”*
+> 💡 *“I approach technology with an open mind and a commitment to consistency. I treat my career and skillset like a continuous deployment pipeline: constantly building, testing, discovering, and improving over time.”*
 
 ---
 
@@ -31,14 +31,25 @@ Rather than just consuming theory, I build to understand. Here is where I track 
 
 I believe great engineering thrives on shared knowledge. Let's talk about systems architecture, automation trends, or shared documentation strategies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) <!-- Replace with your link -->
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so) <!-- Replace with your link -->
-[![Portfolio](https://img.shields.io/badge/Digital_Identity-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thandiweassis.com) <!-- Future domain placeholder -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thandiaof/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://notion.so](https://www.notion.so/DevOps-Contents-3678420d6864800db61fca5ba3e527f8?source=copy_link)) 
+# [![Portfolio](https://img.shields.io/badge/Digital_Identity-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thandiweassis.com) <!-- Future domain placeholder -->
+
+---
+
+### 🛠️ What I am Building & Exploring
+
+```text
+🔄 Pipeline Status: Active Learning & System Optimization
+├── 📁 Shell Scripting ── Native expansions & clean automation logic
+├── 📁 Containers      ── Architecture, multi-stage builds, and patterns
+└── 📁 AI + IT         ── Practical applications of AI in engineering workflows
+```
 
 ---
 
 ### 📊 Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thandiaof&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Thandiwe's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thandioque&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Thandiwe's Activity Graph" />
 </p>
